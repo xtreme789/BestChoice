@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="Itr">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport">
+	<meta name="viewort" content="width=device-width, initial-scale=S1.0">
+	<title>Best Choice</title>
+</head>
+<body>
+<header>
+		<a href="#"><img src="C:\Users\user\HTML and css\Store\images\Logo.png"></a>
+		</div>
+		<nav>
+			<ul>
+				<li>
+					<a href="C:\Users\user\Store\Hyperlinks\New Releases.html">New Arrivals</a>
+				</li>
+				<li>
+					<a href="C:\Users\user\Store\Hyperlinks\Home.html">Home</a>
+				</li>
+				<li>
+					<a href="C:\Users\user\Store\Hyperlinks\About.html">About</a>
+				</li>
+				<li>
+					<a href="C:\Users\user\Store\Hyperlinks\services.html">Services</a>
+				</li>
+				<li>
+					<a href="C:\Users\user\Store\Hyperlinks\Contact Us.html">Contact us</a>
+				</li>
+			</ul>
+		</nav>
+	</header>
+	<div class="banner"><img alt="#" src="C:\Users\user\HTML and css\Store\images\Main Logo.png" height="595" width="1282"></div>
+	<div class="content">
+
+	<p>content</p>
+
+	<h1><picture><img src="#"></picture></h1>
+
+	<br><br>
+
+	<span>content</span>
+
+	<h2><picture><img src="#"></picture></h2>
+
+	<br><br>
+
+	<p>content</p>
+
+	<h1><picture><img src="#"></picture></h1>
+
+	<br><br>
+
+<footer>©copy:Best Choice | All rights reserved by Best choice</footer>
+</body>
+          
+</html>   
